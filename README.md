@@ -40,11 +40,6 @@ Tools/PM    :: Git, Jira, Agile, RFPs, WBS, CI/CD
 
 ---
 
-## 📊 GitHub Stats
-<p align="center"> <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=RajSM139&show_icons=true&hide_title=true&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=RajSM139&show_icons=true&hide_title=true&hide_border=true&theme=default" media="(prefers-color-scheme: light)" /> <img src="https://github-readme-stats.vercel.app/api?username=RajSM139&show_icons=true&hide_title=true&hide_border=true" /> </picture> </p> <p align="center"> <picture> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RajSM139&layout=compact&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RajSM139&layout=compact&hide_border=true&theme=default" media="(prefers-color-scheme: light)" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajSM139&layout=compact&hide_border=true" /> </picture> </p>
-
----
-
 ## ⚡ GitHub Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajSM139&theme=github-compact" /> </p>
 
